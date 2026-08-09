@@ -1,25 +1,25 @@
-title: Zhenpeng Li
+title: Kailin Pan
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 #Comment out url when working locally to resolve base urls correctly
-url: https://Zhenpeng-Li.github.io
+url: https://kailinpan.github.io
 
 # Owner/author information
 owner:
-  name: Zhenpeng Li
-  avatar: avatar.jpg
+  name: Kailin Pan
+ # avatar: avatar.jpg
  # bio: 
-  email: zhenpeng.li@wisc.edu
-  cv: https://zhenpeng-li.github.io/file/CV.pdf
-  bilibili: 667981017
-  github: Zhenpeng-Li
+  email: kailpan@iu.edu
+ # cv: https://zhenpeng-li.github.io/file/CV.pdf
+ # bilibili: 667981017
+  github: kailinpan
  
   #twitter: .
   #linkedin: .
-  scholar: https://scholar.google.com/citations?user=Jkf23VoAAAAJ
+  scholar: https://scholar.google.com/citations?hl=en&user=u3n0zbwAAAAJ
   #researchgate: https://www.researchgate.net
   #zhihu: https://www.zhihu.com
   #instagram: .
-  arXiv: https://arxiv.org/search/math?query=Zhenpeng+Li&searchtype=author&abstracts=show&order=-announced_date_first&size=50
+  arXiv: https://arxiv.org/search/math?query=Kailin+Pan&searchtype=author&abstracts=show&order=-announced_date_first&size=50
   
   #lastfm:
   #tumblr:
@@ -40,19 +40,19 @@ links:
     url: /
   - title: Research
     url: /research/
-  - title: Awards
-    url: /awards/
+  #- title: Awards
+  #  url: /awards/
   #- title: Seminars
   # url: /seminars/
-  - title: Links
-    url: /links/
+  #- title: Links
+  #  url: /links/
   #- title: Photos
   #  url: /photos/
   #- title: Reminiscence
   # url: /reminiscence/
     
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: America/Chicago
+timezone: America/Indianapolis
 future: true
 highlighter: rouge
 # markdown: kramdown
