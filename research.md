@@ -13,8 +13,10 @@ In preparation
 ---
 **Miscellaneous:** <br>
 
--
+- Ring operads and symmetric bimonoidal categories <br>
+REU paper at UChicago, 2024. [\[arxiv\]](https://arxiv.org/abs/2409.09664)
 
-<br>
+- A deformation for homotopy fixed point spectral sequences <br>
+Graduation thesis at Peking University, 2025. [\[pdf\]](https://github.com/kailinpan/kailinpan.github.io/blob/main/file/Thesis.pdf)
 
 <br>
