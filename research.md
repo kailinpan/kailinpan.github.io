@@ -8,11 +8,12 @@ title: Research
 
 - Normed equivariant ring spectra and $\mathbb{A}_n$-modules <br>
 (with [Zhenpeng Li](https://zhenpeng-li.github.io/)) <br>
-In preparation <br>
+In preparation
 
 ---
 **Miscellaneous:** <br>
 
+-
 
 <br>
 
