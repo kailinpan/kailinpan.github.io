@@ -4,14 +4,10 @@ permalink: /research/index.html
 title: Research
 ---
 
-**arXiv preprints:** <br>
-
-- The spectrum of strict units of topological modular forms <br>
-(with Kiran Luecke) <br>
-[\[arXiv:2607.27124\]](https://arxiv.org/abs/2607.27124) <br>
+**Papers and preprints:** <br>
 
 - Normed equivariant ring spectra and $\mathbb{A}_n$-modules <br>
-(with Kailin Pan) <br>
+(with [Zhenpeng Li](https://zhenpeng-li.github.io/)) <br>
 In preparation <br>
 
 <br>
