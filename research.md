@@ -10,8 +10,7 @@ title: Research
 (with [Zhenpeng Li](https://zhenpeng-li.github.io/)) <br>
 In preparation <br>
 
-<br>
-
+---
 **Miscellaneous:** <br>
 
 
