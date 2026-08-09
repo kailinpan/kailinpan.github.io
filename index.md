@@ -1,17 +1,16 @@
 ---
 layout: page
 ---
-I'm **Zhenpeng Li**, currently a second-year Ph.D. student in the Department of Mathematics at the University of Wisconsin-Madison, advised by Prof. [Hana Jia Kong](https://hanajiakong.github.io/). Previously, I received my Bachelor's degree from Peking University, where I worked under the supervision of Prof. [Enlin Yang](https://yelmath.github.io/). <br>
+I'm **Kailin Pan(潘恺霖)**, currently a second-year Ph.D. student in the Department of Mathematics at Indiana University Bloomington, advised by [Michael Mandell](https://mmandell.pages.iu.edu/). Previously, I received my Bachelor's degree from Peking University, advised by [Weinan Lin](https://waynelin92.github.io/) and [Guchuan Li](https://guchuanli.github.io/). <br>
 
-<img src="https://zhenpeng-li.github.io/images/homepage.jpg" class="floatpic">
 
-<br>My research interests lie in (chromatic, motivic, equivariant) homotopy theory and algebraic K-theory, with a particular focus on the highly structured rings in these settings. <br>
+<br>My research interests lie in equivariant homotopy theory and related topics. <br>
 
 ---
 
 **Contact Information** <br>
-- Email: zhenpeng.li [at] wisc.edu <br>
-- Office: Van Vleck 512 <br>
+- Email: kailpan [at] iu.edu <br>
+- Office: Swain East 030 <br>
 
 ---
 <br>
