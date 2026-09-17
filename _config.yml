@@ -40,16 +40,8 @@ links:
     url: /
   - title: Research
     url: /research/
-  #- title: Awards
-  #  url: /awards/
-  #- title: Seminars
-  # url: /seminars/
-  #- title: Links
-  #  url: /links/
-  #- title: Photos
-  #  url: /photos/
-  #- title: Reminiscence
-  # url: /reminiscence/
+  - title: Notes
+    url: /notes/
     
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/Indianapolis
