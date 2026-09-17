@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /links/index.html
-title: Links
+permalink: /notes/index.html
+title: Notes
 ---
 
 <br>
