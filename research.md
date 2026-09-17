@@ -4,8 +4,6 @@ permalink: /research/index.html
 title: Research
 ---
 
-**Papers and preprints:** <br>
-
 - Constant spectral Mackey functors and the $\mathbb{Z}$-graded $C_{p^n}$-equivariant Steenrod algebra <br>
 (In progress.) <br>
 
