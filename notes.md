@@ -4,8 +4,6 @@ permalink: /notes/index.html
 title: Notes
 ---
 
-**Notes:** <br>
-
 - A deformation for homotopy fixed point spectral sequences [\[pdf\]](/file/Thesis.pdf) <br>
 Graduation thesis at Peking University, 2025. <br>
 
