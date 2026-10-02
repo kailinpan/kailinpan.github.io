@@ -19,6 +19,21 @@
       processEscapes: true
     }
   });
+
+  MathJax.Hub.Queue(function () {
+    var style = document.createElement('style');
+    style.type = 'text/css';
+    style.innerHTML = `
+      .MathJax, .MathJax_Display,
+      .MathJax span, .MathJax svg,
+      .MathJax text, .MathJax_SVG text,
+      .MathJax_SVG svg, .MathJax_SVG {
+        color: #000 !important;
+        fill: #000 !important;
+      }
+    `;
+    document.head.appendChild(style);
+  });
 </script>
 
 <script type="text/javascript"
