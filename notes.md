@@ -4,6 +4,9 @@ permalink: /notes/index.html
 title: Notes
 ---
 
+- The $(\infty,2)$-Functoriality of the Span Construction from Adequate Triples [\[pdf\]](/file/Span_2.pdf) <br>
+AI-generated, 2026. <br>
+
 - A deformation for homotopy fixed point spectral sequences [\[pdf\]](/file/Thesis.pdf) <br>
 Graduation thesis at Peking University, 2025. <br>
 
