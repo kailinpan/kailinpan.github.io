@@ -8,7 +8,7 @@ title: Notes
 
 - A deformation for homotopy fixed point spectral sequences, Graduation thesis at Peking University, 2025. [\[pdf\]](/file/Thesis.pdf).<br>
 
-- Ring operads and symmetric bimonoidal categories, REU paper at UChicago, 2024. [\[arxiv\]](https://arxiv.org/abs/2409.09664)[\[pdf\]](/file/2409.09664v1.pdf).<br>
+- Ring operads and symmetric bimonoidal categories, REU paper at UChicago, 2024. [\[arXiv\]](https://arxiv.org/abs/2409.09664)[\[pdf\]](/file/2409.09664v1.pdf).<br>
 
 <br>
 
