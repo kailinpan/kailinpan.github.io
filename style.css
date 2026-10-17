@@ -80,10 +80,9 @@ main {
   object-fit: cover;
 }
 
-h1,
-h2 {
+h1, h2 {
   line-height: 1.25;
-  font-weight: 500;
+  font-weight: bold;
 }
 
 h1 {
@@ -92,7 +91,7 @@ h1 {
 }
 
 h2 {
-  margin: 38px 0 12px;
+  margin: 0 0 12px;
   font-size: 1.35rem;
 }
 
