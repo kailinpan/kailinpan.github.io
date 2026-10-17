@@ -82,7 +82,7 @@ main {
 
 h1, h2 {
   line-height: 1.25;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 h1 {
