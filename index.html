@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Kailin Pan — mathematics Ph.D. student at Indiana University Bloomington.">
+  <title>Kailin Pan</title>
+  <style>
+    :root {
+      --ink: #222;
+      --muted: #666;
+      --line: #dedede;
+      --link: #1558a6;
+      --width: 920px;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: #fff;
+      font: 17px/1.7 Georgia, "Times New Roman", serif;
+    }
+
+    a { color: var(--link); text-decoration: none; }
+    a:hover, a:focus { text-decoration: underline; }
+
+    .site-header {
+      border-bottom: 1px solid var(--line);
+    }
+
+    .nav {
+      max-width: var(--width);
+      margin: 0 auto;
+      padding: 22px 24px 18px;
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .brand {
+      color: var(--ink);
+      font-size: 1.28rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .nav-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+    .nav-links a { color: #444; }
+    .nav-links a[aria-current="page"] {
+      color: var(--ink);
+      font-weight: 600;
+      text-decoration: underline;
+      text-underline-offset: 5px;
+    }
+
+    main {
+      max-width: var(--width);
+      margin: 0 auto;
+      padding: 58px 24px 72px;
+    }
+
+    .portrait {
+      float: right;
+      width: 220px;
+      max-height: 290px;
+      margin: 3px 0 24px 48px;
+      border-radius: 3px;
+      object-fit: cover;
+    }
+
+    h1, h2 {
+      line-height: 1.25;
+      font-weight: 500;
+    }
+
+    h1 { margin: 0 0 28px; font-size: 2.15rem; }
+    h2 { margin: 38px 0 12px; font-size: 1.35rem; }
+    p { margin: 0 0 18px; }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 18px;
+      padding: 0;
+      list-style: none;
+    }
+
+    footer {
+      clear: both;
+      margin-top: 54px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: .9rem;
+    }
+
+    @media (max-width: 640px) {
+      .nav { align-items: flex-start; flex-direction: column; gap: 10px; }
+      main { padding-top: 38px; }
+      .portrait {
+        float: none;
+        display: block;
+        width: min(220px, 70vw);
+        margin: 0 0 28px;
+      }
+      h1 { font-size: 1.85rem; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav" aria-label="Main navigation">
+      <a class="brand" href="/">Kailin Pan</a>
+      <div class="nav-links">
+        <a href="/" aria-current="page">About Me</a>
+        <a href="/research/">Research</a>
+        <a href="/notes/">Notes</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <img class="portrait" src="/images/avatar.jpg" alt="Portrait of Kailin Pan">
+
+    <h1>潘恺霖 · Kailin Pan</h1>
+
+    <p>
+      I am a second-year Ph.D. student in the Department of Mathematics at
+      Indiana University Bloomington, advised by
+      <a href="https://mmandell.pages.iu.edu/">Michael Mandell</a>.
+    </p>
+
+    <p>
+      Before coming to Bloomington, I received my bachelor's degree from
+      Peking University, where I was advised by
+      <a href="https://waynelin92.github.io/">Weinan Lin</a> and
+      <a href="https://guchuanli.github.io/">Guchuan Li</a>.
+    </p>
+
+    <p>
+      My research interests include equivariant homotopy theory and related topics.
+    </p>
+
+    <h2>Links</h2>
+    <ul class="links">
+      <li><a href="mailto:kailpan@iu.edu">Email</a></li>
+      <li><a href="https://arxiv.org/search/math?query=Kailin+Pan&amp;searchtype=author&amp;abstracts=show&amp;order=-announced_date_first&amp;size=50">arXiv</a></li>
+      <li><a href="https://scholar.google.com/citations?hl=en&amp;user=u3n0zbwAAAAJ">Google Scholar</a></li>
+      <li><a href="https://github.com/kailinpan">GitHub</a></li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>
+      Department of Mathematics<br>
+      Indiana University Bloomington<br>
+      Office: Swain East 030<br>
+      Email: <a href="mailto:kailpan@iu.edu">kailpan@iu.edu</a>
+    </p>
+
+    <footer>Last updated October 2026.</footer>
+  </main>
+</body>
+</html>
