@@ -99,6 +99,10 @@ p {
   margin: 0 0 18px;
 }
 
+.entry > summary {
+  cursor: pointer;
+}
+
 .entry > summary:focus-visible {
   outline: 2px solid var(--link);
   outline-offset: 4px;
