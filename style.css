@@ -99,6 +99,27 @@ p {
   margin: 0 0 18px;
 }
 
+.entry > summary:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 4px;
+}
+
+.entry-content {
+  margin: 12px 0 0 1.4rem;
+}
+
+.entry-content p {
+  margin: 0 0 10px;
+}
+
+.entry-meta {
+  color: var(--muted);
+}
+
+.entry-links {
+  font-size: 0.95rem;
+}
+
 .entries {
   margin: 0;
   padding-left: 1.5rem;
