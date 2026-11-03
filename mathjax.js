@@ -1,14 +1,26 @@
 window.MathJax = {
+  output: {
+    fontExtensions: [
+      'mathjax-euler'
+    ]
+  },
+
   tex: {
     inlineMath: [
       ['\\(', '\\)'],
       ['$', '$']
     ],
+
     displayMath: [
       ['\\[', '\\]'],
       ['$$', '$$']
-    ]
+    ],
+
+    macros: {
+      EuScript: ['\\mathscr{#1}', 1]
+    }
   },
+
   options: {
     skipHtmlTags: [
       'script',
@@ -24,7 +36,7 @@ window.MathJax = {
 const mathJaxScript = document.createElement('script');
 
 mathJaxScript.src =
-  'https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js';
+  'https://cdn.jsdelivr.net/npm/mathjax@4.1.3/tex-mml-chtml.js';
 
 mathJaxScript.async = true;
 
