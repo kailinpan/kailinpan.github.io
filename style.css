@@ -70,6 +70,8 @@ a:focus {
 }
 
 main {
+  hyphens: auto;
+  overflow-wrap: break-word;
   max-width: var(--width);
   margin: 0 auto;
   padding: 58px 24px 72px;
